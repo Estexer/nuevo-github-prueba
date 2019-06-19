@@ -4,8 +4,8 @@ public class Operadores {
 
 	public static void main(String[] args) {
 	
-		int n1=15;
-		int n2=16;
+		int n1=100;
+		int n2=200;
 
 		System.out.println("La suma es " + (n1+n2));
 		System.out.println("La resta es " + (n1-n2));
